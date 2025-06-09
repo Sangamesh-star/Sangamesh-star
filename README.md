@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc">𝐒𝐀𝐍𝐆𝐀𝐌𝐄𝐒𝐇 𝐌𝐊</span></h1> <p align="center"> 🚀 Aspiring AI Engineer | 🎓 CSE Undergrad | 💻 Tech Explorer<br></p> <p align="center"> <img
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learning+Python+%7C+AI+%7C+App+Dev;Never+stop+learning+%F0%9F%92%AA" alt="Typing SVG" /> </p> 
 
-🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
+★ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
 
 🎓 I Will do Computer Science & Engineering(CSE)<br> 
 
@@ -12,7 +12,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 ✨ Focused, consistent, and learning every single day<br><br>---<br><br> 
 
 
-🚧 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀:
+★ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀:
 
 🧠  Matured Mind Blog + App  – A smart blog reader with TTS, offline mode & recommendations  <br> 
 
@@ -27,10 +27,10 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 “Discipline, not motivation, builds legacy.” 
 
 
-## 🌐 Socials:
+★ 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
 
-# 💻 Tech Stack:
+★ 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
