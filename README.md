@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#007acc">𝐒𝐀𝐍𝐆𝐀𝐌𝐄𝐒𝐇 𝐌𝐊</span></h1><br><p align="center"><br>  🚀 Aspiring AI Engineer | 🎓 CSE Undergrad | 💻 Tech Explorer<br></p><br><br><p align="center"><br>  <img
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc">𝐒𝐀𝐍𝐆𝐀𝐌𝐄𝐒𝐇 𝐌𝐊</span></h1><br><p align="center"> 🚀 Aspiring AI Engineer | 🎓 CSE Undergrad | 💻 Tech Explorer<br></p><br><br><p align="center"><br>  <img
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learning+Python+%7C+AI+%7C+App+Dev;Never+stop+learning+%F0%9F%92%AA" alt="Typing SVG" /><br></p><br><br>---<br><br> 
 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <br><br> 
 
