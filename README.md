@@ -21,9 +21,9 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 📖   Handwritten Notes scanner – Convert notes to digital searchable format<br><br>---<br><br> 
 
-✨ 𝗤𝘂𝗼𝘁𝗲 𝗜 𝗟𝗶𝘃𝗲 𝗕𝘆 : <br><br>>
+✨ 𝗤𝘂𝗼𝘁𝗲 𝗜 𝗟𝗶𝘃𝗲 𝗕𝘆 : <br><br>
 
- “Discipline, not motivation, builds legacy.” 
+“Discipline, not motivation, builds legacy.” 
 
 
 ## 🌐 Socials:
