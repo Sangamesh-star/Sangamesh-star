@@ -30,8 +30,10 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 ★ 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
 
+
+
+
 ★ 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="left">
   <!-- Programming Languages -->
