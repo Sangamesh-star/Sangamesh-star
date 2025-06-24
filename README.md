@@ -77,7 +77,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 ---
 [![](https://visitcount.itsvg.in/api?id=Sangamesh-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ### 📌 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦:
 - 🔥 [Daily Practiced Codes](https://github.com/sangamesh-star/Daily_practiced_codes.py) 
 
