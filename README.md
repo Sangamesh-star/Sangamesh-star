@@ -20,6 +20,12 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 ✨ Focused, consistent, and learning every single day<br><br>---<br><br> 
 
 
+
+### 🏅 Certifications
+- [Python for Everybody (Coursera)](link)
+- [AI for Beginners - Microsoft](link)
+
+
 ★ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀:
 
 🧠  Matured Mind Blog + App  – A smart blog reader with TTS, offline mode & recommendations  <br> 
