@@ -6,7 +6,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-
+___
 
 
 ★ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
@@ -18,12 +18,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 💡 Interested in: Artificial Intelligence, Full-Stack Dev, Android Apps<br> 
 
 ✨ Focused, consistent, and learning every single day<br><br>---<br><br> 
-
-
-
-### 🏅 Certifications
-- [Python for Everybody (Coursera)](link)
-- [AI for Beginners - Microsoft](link)
 
 
 ★ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀:
