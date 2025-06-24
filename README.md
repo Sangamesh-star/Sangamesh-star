@@ -81,6 +81,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 ☎️Reach me : 7019880436
 
 📍Based in : 𝗞𝗮𝗿𝗻𝗮𝘁𝗮𝗸𝗮, 𝗜𝗻𝗱𝗶𝗮.  
+
 🧠Motto    : "𝐌𝐄 𝚟/𝚜 𝐌𝐄"
 
 🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎😊🙏
