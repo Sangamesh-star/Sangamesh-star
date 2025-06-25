@@ -2,14 +2,12 @@
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learning+Python+%7C+AI+%7C+App+Dev;Never+stop+learning+%F0%9F%92%AA" alt="Typing SVG" /> </p> 
 
 
-## 👨‍💻 Computer Coding Animation
-
-![Coding Animation](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif)
-
-> I code in Python, C++, Java, AI/ML, and more.  
-> This animation represents my daily grind 🧠💻
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+
+
+
 
 ___
 
