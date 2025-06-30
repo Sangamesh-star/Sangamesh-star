@@ -34,29 +34,7 @@ ___
 “Discipline, not motivation, builds legacy.” 
 
 
-★ 🌐 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>SOCIALS Highlight</title>
-  <style>
-    body {
-      background-color: #ffffff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    .highlighted-text {
-      font-size: 100px;
-      font-weight: bold;
-      color: white;
-      background-color: black;
-      padding: 20px 40px;
-      border-radius: 10px;
-      font-family: Arial, sans-serif;
-    }
+★ 🌐 
   </style>
 </head>
 <body>
