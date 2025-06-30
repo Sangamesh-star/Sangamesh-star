@@ -50,6 +50,10 @@ ___
 
  𝟐)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
 
+<a href="https://wa.me/917019880436" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:50px; height:50px;">
+</a>
+
 
 
  𝟑) <a class="linkedin-badge" href="https://www.linkedin.com/in/sangamesh-m-kuri-034682366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
