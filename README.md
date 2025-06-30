@@ -18,8 +18,8 @@ ___
 💡 Interested in: Artificial Intelligence, Full-Stack Dev, Android Apps<br> 
 
 ✨ Focused, consistent, and learning every single day<br><br>---<br><br> 
-
-
+---
+___
 ★ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀:
 
 🧠  Matured Mind Blog + App  – A smart blog reader with TTS, offline mode & recommendations  <br> 
