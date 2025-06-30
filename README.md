@@ -5,7 +5,8 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-___
+
+---
 ___
 ★ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
 
