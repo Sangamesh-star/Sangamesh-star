@@ -55,10 +55,9 @@ ___
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:50px; height:40px;">
 </a>
 
-<a href="https://wa.me/917019880436" target="_blank" style="text-decoration: none;">
+𝟑)<a href="https://wa.me/917019880436" target="_blank" style="text-decoration: none;">
   <div style="display: inline-flex; align-items: center; background-color: #25D366; color: white; padding: 10px 16px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:24px; height:24px; margin-right: 10px;">
-    WhatsApp
   </div>
 </a>
 
