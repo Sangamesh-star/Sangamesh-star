@@ -34,18 +34,18 @@ ___
 “Discipline, not motivation, builds legacy.” 
 
 
-★ 🌐 𝗦𝗢𝗖𝗜𝗔𝗟𝗦 :
+★ 🌐 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421) 
+𝟏)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421) 
 
 
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
+ 𝟐)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
 
 
 
-  <a class="linkedin-badge" href="https://www.linkedin.com/in/sangamesh-m-kuri-034682366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+ 𝟑) <a class="linkedin-badge" href="https://www.linkedin.com/in/sangamesh-m-kuri-034682366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img class="linkedin-icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn">
   </a>
 
