@@ -50,8 +50,7 @@ ___
 
  𝟐)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
 
-𝟑)
-<ahref="https://wa.me/917019880436" target="_blank">
+𝟑)<a href="https://wa.me/917019880436" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:50px; height:40px;">
 </a>
 
