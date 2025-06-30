@@ -9,7 +9,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 ---
 ___
-★ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
+★ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 :-
 
 🎓 I Will do Computer Science & Engineering(CSE)<br> 
 
@@ -21,20 +21,20 @@ ___
 
 ---
 ___
-★ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀:
+★ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗜𝗡 𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦 :-
 
 🧠  Matured Mind Blog + App  – A smart blog reader with TTS, offline mode & recommendations  <br> 
 
 📘   All-in-One Study App  – NEET + GATE + UPSC in one place (AI-powered learning tools)  <br> 
 
-🔍  Python Chatbot Assistant – My own learning assistant bot  <br>  
+🔍  Chatbot Assistant – My own learning assistant bot  <br>  
 
 📖   Handwritten Notes scanner – Convert notes to digital searchable format<br>
 
 ---
 ___
 
-✨ 𝗤𝘂𝗼𝘁𝗲 𝗜 𝗟𝗶𝘃𝗲 𝗕𝘆 :
+✨ q :
 
 “Discipline, not motivation, builds legacy.” 
 
