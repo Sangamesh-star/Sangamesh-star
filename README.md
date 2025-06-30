@@ -2,7 +2,7 @@
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learning+Python+%7C+AI+%7C+App+Dev;Never+stop+learning+%F0%9F%92%AA" alt="Typing SVG" /> </p> 
 
 
-𝐇𝐮𝐬𝐭𝐥𝐢𝐧𝐠😊...
+<h1 align="center">𝐇𝐔𝐒𝐓𝐋𝐈𝐍𝐆😊 <span
 
 ![Boy Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
