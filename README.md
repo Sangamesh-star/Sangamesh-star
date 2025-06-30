@@ -3,7 +3,134 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Boy Typing Code</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #eef;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .scene {
+      position: relative;
+      width: 300px;
+      height: 300px;
+    }
+
+    /* Computer */
+    .computer {
+      width: 140px;
+      height: 100px;
+      background: #333;
+      position: absolute;
+      top: 50px;
+      left: 80px;
+      border-radius: 10px;
+    }
+
+    .screen {
+      width: 120px;
+      height: 70px;
+      background: #111;
+      margin: 10px;
+      position: relative;
+      overflow: hidden;
+      color: lime;
+      font-family: monospace;
+      font-size: 12px;
+      animation: typing 3s infinite;
+    }
+
+    @keyframes typing {
+      0%   { content: ""; }
+      25%  { content: "console.log("; }
+      50%  { content: "console.log('Hi')"; }
+      75%  { content: "console.log('Coding!')"; }
+      100% { content: ""; }
+    }
+
+    /* Boy's Head */
+    .head {
+      width: 60px;
+      height: 60px;
+      background: #fcd5b4;
+      border-radius: 50%;
+      position: absolute;
+      top: 150px;
+      left: 120px;
+      z-index: 2;
+    }
+
+    /* Eyes */
+    .eye {
+      width: 8px;
+      height: 8px;
+      background: #000;
+      border-radius: 50%;
+      position: absolute;
+      top: 15px;
+    }
+
+    .eye.left { left: 15px; }
+    .eye.right { right: 15px; }
+
+    /* Body */
+    .body {
+      width: 80px;
+      height: 100px;
+      background: #4A90E2;
+      position: absolute;
+      top: 200px;
+      left: 110px;
+      border-radius: 20px;
+    }
+
+    /* Hands typing */
+    .hand {
+      width: 20px;
+      height: 10px;
+      background: #fcd5b4;
+      position: absolute;
+      top: 70px;
+      animation: typeHands 0.5s infinite alternate;
+    }
+
+    .hand.left {
+      left: 90px;
+    }
+
+    .hand.right {
+      left: 170px;
+    }
+
+    @keyframes typeHands {
+      from { transform: translateY(0); }
+      to   { transform: translateY(5px); }
+    }
+  </style>
+</head>
+<body>
+  <div class="scene">
+    <div class="computer">
+      <div class="screen">console.log('Hi')</div>
+    </div>
+    <div class="hand left"></div>
+    <div class="hand right"></div>
+    <div class="head">
+      <div class="eye left"></div>
+      <div class="eye right"></div>
+    </div>
+    <div class="body"></div>
+  </div>
+</body>
+</html>
 
 
 ---
