@@ -41,7 +41,6 @@ ___
 
   <a class="linkedin-badge" href="https://www.linkedin.com/in/sangamesh-m-kuri-034682366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img class="linkedin-icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn">
-    Connect on LinkedIn
   </a>
 
 </body>
