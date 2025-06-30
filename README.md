@@ -34,7 +34,7 @@ ___
 ---
 ___
 
-✨ q :
+✨ 𝗤𝗨𝗢𝗧𝗘 𝗜 𝗟𝗜𝗩𝗘 𝗕𝗬😊:-
 
 “Discipline, not motivation, builds legacy.” 
 
@@ -62,7 +62,7 @@ ___
 ___
 
 
-★ 💻 Tech Stack:
+★ 💻 𝗧𝗘𝗖𝗞 𝗦𝗧𝗔𝗖𝗞 :-
 
 <p align="left">
   <!-- Programming Languages -->
@@ -90,7 +90,7 @@ ___
 ---
 ___
 
-# 📊 GitHub Stats:
+# 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦:-
 ![](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-star&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
@@ -98,7 +98,7 @@ ___
 ---
 ___
 
-### 🔝 Top Contributed Repo
+### 🔝 𝗧𝗢𝗣 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗥𝗘𝗣𝗢:-
 ![](https://github-contributor-stats.vercel.app/api?username=Sangamesh-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
@@ -106,7 +106,7 @@ ___
 
 [![](https://visitcount.itsvg.in/api?id=Sangamesh-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📌 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦:
+📌 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦:-
 - 🔥 [Daily Practiced Codes](https://github.com/sangamesh-star/Daily_practiced_codes.py) 
 
 ---
