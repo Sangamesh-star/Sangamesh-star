@@ -29,11 +29,17 @@ ___
 
 🔍  Python Chatbot Assistant – My own learning assistant bot  <br>  
 
-📖   Handwritten Notes scanner – Convert notes to digital searchable format<br><br>---<br><br> 
+📖   Handwritten Notes scanner – Convert notes to digital searchable format<br>
+
+---
+___
 
 ✨ 𝗤𝘂𝗼𝘁𝗲 𝗜 𝗟𝗶𝘃𝗲 𝗕𝘆 :
 
 “Discipline, not motivation, builds legacy.” 
+
+---
+___
 
 
 ★ 🌐 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :-
@@ -52,7 +58,8 @@ ___
 </body>
 </html>
 
-
+---
+___
 
 
 ★ 💻 Tech Stack:
@@ -80,20 +87,32 @@ ___
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
+---
+___
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-star&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+---
+___
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sangamesh-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+___
+
 [![](https://visitcount.itsvg.in/api?id=Sangamesh-star&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+___
 
 ### 📌 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦:
 - 🔥 [Daily Practiced Codes](https://github.com/sangamesh-star/Daily_practiced_codes.py) 
 
+---
 ___
 
 ☎️Reach me : 7019880436
