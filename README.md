@@ -37,6 +37,44 @@ ___
 ★ 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LinkedIn Badge</title>
+  <style>
+    .linkedin-badge {
+      display: inline-block;
+      background-color: #0077B5;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: background-color 0.3s;
+    }
+
+    .linkedin-badge:hover {
+      background-color: #005f8d;
+    }
+
+    .linkedin-icon {
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <a class="linkedin-badge" href="https://www.linkedin.com/in/sangamesh-m-kuri-034682366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img class="linkedin-icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn">
+    Connect on LinkedIn
+  </a>
+
+</body>
+</html>
+
 
 
 
