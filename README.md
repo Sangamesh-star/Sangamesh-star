@@ -34,7 +34,7 @@ ___
 “Discipline, not motivation, builds legacy.” 
 
 
-★ 🌐 Socials:
+★ 🌐 🇸‌🇴‌🇨‌🇮‌🇦‌🇱‌🇸‌:
 
 
 
