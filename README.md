@@ -90,7 +90,7 @@ ___
 ---
 ___
 
-# 📊 GITHUB STATS:-
+# 📊 Github Stats:-
 ![](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-star&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
