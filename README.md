@@ -90,7 +90,7 @@ ___
 ---
 ___
 
-# 📊 Github Stats:-
+# 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒:-
 ![](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-star&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
@@ -98,7 +98,7 @@ ___
 ---
 ___
 
-### 🔝 𝗧𝗢𝗣 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗥𝗘𝗣𝗢:-
+### 🔝 𝐓𝐎𝐏 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐄𝐃 𝐑𝐄𝐏𝐎:-
 ![](https://github-contributor-stats.vercel.app/api?username=Sangamesh-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
