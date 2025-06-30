@@ -34,15 +34,7 @@ ___
 “Discipline, not motivation, builds legacy.” 
 
 
-★ 🌐 
-  </style>
-</head>
-<body>
-  <div class="highlighted-text">SOCIALS</div>
-</body>
-</html>
-
-
+★ 🌐 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :-
 
 𝟏)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421) 
 
