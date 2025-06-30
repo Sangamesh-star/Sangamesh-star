@@ -17,7 +17,7 @@ ___
 
 💡 Interested in: Artificial Intelligence, Full-Stack Dev, Android Apps<br> 
 
-✨ Focused, consistent, and learning every single day<br><br>---<br><br> 
+✨ Focused, consistent, and learning every single day<br>
 
 ---
 ___
