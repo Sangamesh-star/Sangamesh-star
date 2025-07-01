@@ -37,7 +37,7 @@ ___
 ✨ 𝗤𝗨𝗢𝗧𝗘 𝗜 𝗟𝗜𝗩𝗘 𝗕𝗬😊:-
 
 "No shortcuts — just sleepless nights and endless loops...
-Built from scratch, fueled by code, driven by hustle."
+Built from scratch, fueled by code, driven by hustle❤️‍🔥."
 
 ---
 ___
