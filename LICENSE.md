@@ -11,28 +11,26 @@ License Grant:
 Subject to the terms and conditions of this License, the Licensor hereby grants. You a worldwide, royalty-free, non-exclusive, perpetual, sublicensable license
 to:
 
-1. Use, reproduce, modify, and create Derivative Works.
+1.Use, reproduce, modify, and create Derivative Works.
 
 
-2. Distribute and publicly perform/display the Software.
+2.Distribute and publicly perform/display the Software.
 
 
-3. Grant sublicenses through multiple tiers of distribution.
+3.Grant sublicenses through multiple tiers of distribution.
 
 ----
 
 Definitions:
 
-"Software" shall mean the original work and all Direct Derivative Works.
-"Direct Derivative Works" shall mean modifications that constitute
-copyrightable works containing substantial portions of the original Software.
+"Software" shall mean the original work and all Direct Derivative Works."Direct Derivative Works" shall mean modifications that constitute copyrightable works containing substantial portions of the original Software.
 
 -----
 
 
 Conditions and Limitations
 
-1. Attribution Requirement:
+1.Attribution Requirement:
 
 All copies must include this license document.
 
@@ -42,7 +40,7 @@ Project documentation must contain copyright notice.
 
 
 
-2. Modified Works:
+2.Modified Works:
 
 a)Must contain diff annotations of changes made.
 
@@ -52,7 +50,7 @@ c)Must state prominently "This is a modified version".
 
 
 
-3. Patent Clause:
+3.Patent Clause:
 
 This license includes a limited patent grant covering implementations.
 
@@ -73,11 +71,11 @@ Compliance Verification
 
 You agree to provide upon request:
 
-1. Documentation of compliance with attribution requirements.
+1.Documentation of compliance with attribution requirements.
 
 
-2. List of all Direct Derivative Works created.
+2.List of all Direct Derivative Works created.
 
 
-3. Copies of all distribution channels used.
+3.Copies of all distribution channels used.
 
