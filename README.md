@@ -111,6 +111,9 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=Sangamesh-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+
+
 ___
 
 [![](https://visitcount.itsvg.in/api?id=Sangamesh-star&icon=0&color=0)](https://visitcount.itsvg.in)
