@@ -2,7 +2,7 @@
 
 Software Intellectual Property Notice.
 
-Copyright (c) 2025 Sangamesh M Kuri <sangameshmkuri94@gamil.com.>GitHub: @sangamesh-star.
+Copyright (c) 2025 Sangamesh M Kuri <sangameshmkuri94@gamil.com.>GitHub: sangamesh-star.
 
 ----
 
