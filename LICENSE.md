@@ -1,8 +1,8 @@
 🅼︎🅸︎🆃︎ License
 
-Software Intellectual Property Notice.
+Software Intellectual Property Notice:-
 
-Copyright (c) 2025 Sangamesh MK (sangameshmkuri94@gamil.com)GitHub:sangamesh-star.
+Copyright © 2025 Sangamesh MK (sangameshmkuri94@gamil.com)GitHub:sangamesh-star.
 
 ----
 
