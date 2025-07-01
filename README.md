@@ -118,6 +118,8 @@ ___
 📌 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦:-
 - 🔥 [Daily Practiced Codes](https://github.com/sangamesh-star/Daily_practiced_codes.py) 
 
+[![❤️ Like My Profile](https://img.shields.io/github/stars/Sangamesh-star/like-my-profile?label=Like%20My%20Profile&style=social)](https://github.com/Sangamesh-star/like-my-profile)
+
 ---
 ___
 
