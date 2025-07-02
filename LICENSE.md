@@ -2,11 +2,15 @@
 
 Software Intellectual Property Notice:-
 
-Copyright © 2025 Sangamesh MK (sangameshmkuri94@gamil.com)GitHub:sangamesh-star.
+Copyright © 2025 Sangamesh M Kuri
+
+(sangameshmkuri94@gamil.com)
+
+GitHub:sangamesh-star.
 
 ----
 
-License Grant:
+𝐋𝐈𝐂𝐄𝐍𝐒𝐄 𝐆𝐑𝐀𝐍𝐓 :-
 
 Subject to the terms and conditions of this License, the Licensor hereby grants. You a worldwide, royalty-free, non-exclusive, perpetual, sublicensable license
 to:
@@ -21,16 +25,16 @@ to:
 
 ----
 
-Definitions:
+𝐃𝐄𝐅𝐈𝐍𝐈𝐓𝐈𝐎𝐍𝐒 :-
 
 "Software" shall mean the original work and all Direct Derivative Works."Direct Derivative Works" shall mean modifications that constitute copyrightable works containing substantial portions of the original Software.
 
 -----
 
 
-Conditions and Limitations
+𝐂𝐎𝐍𝐃𝐈𝐓𝐈𝐎𝐍𝐒 𝐀𝐍𝐃 𝐋𝐈𝐌𝐈𝐓𝐀𝐓𝐈𝐎𝐍𝐒 :-
 
-1.Attribution Requirement:
+𝟭.𝗔𝘁𝘁𝗿𝘂𝗯𝘂𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁 :
 
 All copies must include this license document.
 
@@ -40,7 +44,7 @@ Project documentation must contain copyright notice.
 
 
 
-2.Modified Works:
+𝟮.𝗠𝗼𝗱𝗶𝗳𝗶𝗲𝗱 𝗪𝗼𝗿𝗸𝘀 :
 
 a)Must contain diff annotations of changes made.
 
@@ -50,7 +54,7 @@ c)Must state prominently "This is a modified version".
 
 
 
-3.Patent Clause:
+𝟯.𝗣𝗮𝘁𝗲𝗻𝘁 𝗖𝗹𝗮𝘂𝘀𝗲 :
 
 This license includes a limited patent grant covering implementations.
 
@@ -58,7 +62,7 @@ Patent rights terminate if You bring any patent claim against the Licensor.
 
 -----
 
-Disclaimer of Warranty & Liability
+𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 𝐨𝐟 𝐖𝐀𝐑𝐑𝐀𝐍𝐓𝐘 𝐚𝐧𝐝 𝐋𝐈𝐀𝐁𝐈𝐋𝐈𝐓𝐘 :-
 
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
@@ -67,15 +71,15 @@ In no event shall the authors or copyright holders be liable for any direct, ind
 -----
 
 
-Compliance Verification
+𝐂𝐎𝐌𝐏𝐋𝐈𝐄𝐍𝐂𝐄 𝐕𝐄𝐑𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 :-
 
 You agree to provide upon request:
 
-1.Documentation of compliance with attribution requirements.
+𝟭.Documentation of compliance with attribution requirements.
 
 
-2.List of all Direct Derivative Works created.
+𝟮.List of all Direct Derivative Works created.
 
 
-3.Copies of all distribution channels used.
+𝟯.Copies of all distribution channels used.
 
