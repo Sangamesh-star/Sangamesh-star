@@ -111,6 +111,11 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=Sangamesh-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+## 📜 License  
+**MIT © 2025 [Sangamesh M Kuri]**  
+
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
 
