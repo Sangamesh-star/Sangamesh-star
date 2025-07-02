@@ -113,9 +113,9 @@ ___
 ---
 
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
-**MIT © 2025 [Sangamesh M Kuri]**  
+**MIT © 2025 [Sangamesh M Kuri]**  👇
 
-👇
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
 
