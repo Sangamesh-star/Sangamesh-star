@@ -6,7 +6,7 @@ Copyright © 2025 Sangamesh M Kuri
 
 (sangameshmkuri94@gamil.com)
 
-GitHub:sangamesh-star.
+GitHub: 𝗦𝗮𝗻𝗴𝗮𝗺𝗲𝘀𝗵-𝘀𝘁𝗮𝗿 .
 
 ----
 
@@ -15,19 +15,19 @@ GitHub:sangamesh-star.
 Subject to the terms and conditions of this License, the Licensor hereby grants. You a worldwide, royalty-free, non-exclusive, perpetual, sublicensable license
 to:
 
-1.Use, reproduce, modify, and create Derivative Works.
+𝟭.Use, reproduce, modify, and create Derivative Works.
 
 
-2.Distribute and publicly perform/display the Software.
+𝟮.Distribute and publicly perform/display the Software.
 
 
-3.Grant sublicenses through multiple tiers of distribution.
+𝟯.Grant sublicenses through multiple tiers of distribution.
 
 ----
 
 𝐃𝐄𝐅𝐈𝐍𝐈𝐓𝐈𝐎𝐍𝐒 :-
 
-"Software" shall mean the original work and all Direct Derivative Works."Direct Derivative Works" shall mean modifications that constitute copyrightable works containing substantial portions of the original Software.
+"𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲" shall mean the original work and all Direct Derivative Works."Direct Derivative Works" shall mean modifications that constitute copyrightable works containing substantial portions of the original Software.
 
 -----
 
@@ -46,11 +46,11 @@ Project documentation must contain copyright notice.
 
 𝟮.𝗠𝗼𝗱𝗶𝗳𝗶𝗲𝗱 𝗪𝗼𝗿𝗸𝘀 :
 
-a)Must contain diff annotations of changes made.
+𝗮)Must contain diff annotations of changes made.
 
-b)Must not use the original project name/trademarks.
+𝗯)Must not use the original project name/trademarks.
 
-c)Must state prominently "This is a modified version".
+𝗰)Must state prominently "This is a modified version".
 
 
 
@@ -73,7 +73,7 @@ In no event shall the authors or copyright holders be liable for any direct, ind
 
 𝐂𝐎𝐌𝐏𝐋𝐈𝐄𝐍𝐂𝐄 𝐕𝐄𝐑𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 :-
 
-You agree to provide upon request:
+𝗬𝗼𝘂 𝗮𝗴𝗿𝗲𝗲 𝘁𝗼 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝘂𝗽𝗼𝗻 𝗿𝗲𝗾𝘂𝗲𝘀𝘁 :
 
 𝟭.Documentation of compliance with attribution requirements.
 
