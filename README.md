@@ -45,31 +45,6 @@ Built from scratch, fueled by code, driven by hustle❤️‍🔥."
 ___
 
 
-★ 🌐 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :-
-
-𝟏)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matured_mind3421) 
-
-
- 𝟐)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangameshmkuri94@gmail.com) 
-
-𝟑)
-<a href="https://wa.me/917019880436" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:50px; height:40px;">
-</a>
-
-
-
- 𝟒)
-<a class="linkedin-badge" href="https://www.linkedin.com/in/sangamesh-m-kuri-034682366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img class="linkedin-icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn">
-  </a>
-
-</body>
-</html>
-
----
-___
-
 
 ★ 💻 𝗧𝗘𝗖𝗞 𝗦𝗧𝗔𝗖𝗞 :-
 
