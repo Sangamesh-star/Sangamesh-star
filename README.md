@@ -107,7 +107,7 @@ ___
 
 ☎️Reach me : [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
 
-📍Based in : [![Location](https://img.shields.io/badge/Location-Hungund,%20Bagalkot,%20Karnataka,%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hungund,+Karnataka)
+📍Based in : [![Location](https://img.shields.io/badge/📍%20Location-blue?style=for-the-badge)](https://www.google.com/maps/place/Hungund,+Bagalkot,+Karnataka,+India)
 
 🧠Motto    : "𝐌𝐄 𝚟/𝚜 𝐌𝐄"
 
