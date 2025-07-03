@@ -105,7 +105,7 @@ ___
 ---
 ___
 
-☎️Reach me : [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
+☎️Reach me : [![WhatsApp](https://img.shields.io/badge/Chat%10on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
 
 📍Based in : 𝗞𝗮𝗿𝗻𝗮𝘁𝗮𝗸𝗮, 𝗜𝗻𝗱𝗶𝗮.  
 
