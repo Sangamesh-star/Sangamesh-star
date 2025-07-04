@@ -14,6 +14,21 @@ sangameshmkuri94@gmail.com
 
 ----
 
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 𝐨𝐟 𝐖𝐀𝐑𝐑𝐀𝐍𝐓𝐘 𝐚𝐧𝐝 𝐋𝐈𝐀𝐁𝐈𝐋𝐈𝐓𝐘 :-
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+In no event shall the authors or copyright holders be liable for any direct, indirect, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits, or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise), arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
+
+
 𝐋𝐈𝐂𝐄𝐍𝐒𝐄 𝐆𝐑𝐀𝐍𝐓 :-
 
 Subject to the terms and conditions of this License, the Licensor hereby grants. You a worldwide, royalty-free, non-exclusive, perpetual, sublicensable license
