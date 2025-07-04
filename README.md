@@ -88,8 +88,10 @@ ___
 ---
 
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
-**MIT © 2025 [Sangamesh M Kuri]**  👇
+**MIT © 2025 [Sangamesh M Kuri]**  
 
+This copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+👇
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
