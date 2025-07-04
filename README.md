@@ -1,5 +1,3 @@
-<!--
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Sangamesh-star&color=red&style=flat-square)
 
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 <span style="color:#007acc">𝐒𝐀𝐍𝐆𝐀𝐌𝐄𝐒𝐇 𝐌𝐊</span></h1> <p align="center"> 🚀 Aspiring AI Engineer | 🎓 CSE Undergrad | 💻 Tech Explorer| 👨‍💻 Future Developer<br></p> <p align="center"> <img
@@ -116,5 +114,4 @@ ___
 🧠Motto    : "𝐌𝐄 𝚟/𝚜 𝐌𝐄"
 
 🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄😊🙏
--->
 
