@@ -83,14 +83,6 @@ Patent rights terminate if You bring any patent claim against the Licensor.
 
 -----
 
-𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 𝐨𝐟 𝐖𝐀𝐑𝐑𝐀𝐍𝐓𝐘 𝐚𝐧𝐝 𝐋𝐈𝐀𝐁𝐈𝐋𝐈𝐓𝐘 :-
-
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
-
-In no event shall the authors or copyright holders be liable for any direct, indirect, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits, or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise), arising in any way out of the use of this software, even if advised of the possibility of such damage.
-
------
-
 
 𝐂𝐎𝐌𝐏𝐋𝐈𝐄𝐍𝐂𝐄 𝐕𝐄𝐑𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 :-
 
