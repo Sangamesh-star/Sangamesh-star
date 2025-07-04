@@ -10,7 +10,7 @@ Software Intellectual Property Notice:-
 𝐆𝐦𝐚𝐢𝐥  :
 sangameshmkuri94@gmail.com
 
-𝐆𝐢𝐭𝐇𝐮𝐛 : 𝗦𝗮𝗻𝗴𝗮𝗺𝗲𝘀𝗵-𝘀𝘁𝗮𝗿 .
+𝐆𝐢𝐭𝐇𝐮𝐛 : Sangamesh-star
 
 ----
 
