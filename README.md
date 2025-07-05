@@ -76,11 +76,21 @@ ___
 ___
 
 # 📊 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:-
-![](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-star&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&cache_seconds=1800&count_private=true&show_icons=true&theme=radical)
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sangamesh-star&count_private=true&show_icons=true&show=reviews,prs_merged&theme=default&rank_icon=percentile&hide_border=true&cache_seconds=60" alt="Sangamesh's GitHub Stats" />
+
+<!-- GitHub Streak Card -->
+<img src="https://streak-stats.demolab.com?user=Sangamesh-star&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=60" alt="Top Languages" />
+
+</div>
+
+
 
 ---
 ___
@@ -97,22 +107,6 @@ This copyright notice and this permission notice shall be included in all copies
 👇
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
-
-
-## 🚀 GitHub Stats (Updated Every 1 Minute)
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sangamesh-star&count_private=true&show_icons=true&show=reviews,prs_merged&theme=default&rank_icon=percentile&hide_border=true&cache_seconds=60" alt="Sangamesh's GitHub Stats" />
-
-<!-- GitHub Streak Card -->
-<img src="https://streak-stats.demolab.com?user=Sangamesh-star&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=60" alt="Top Languages" />
-
-</div>
 
 
 ___
