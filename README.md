@@ -80,11 +80,7 @@ ___
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sangamesh-star&count_private=true&show_icons=true&show=reviews,prs_merged&theme=default&rank_icon=percentile&hide_border=true&cache_seconds=60" alt="Sangamesh's GitHub Stats" 
-
-![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&cache_seconds=1800&count_private=true&show_icons=true&theme=radical)
-
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sangamesh-star&count_private=true&show_icons=true&show=reviews,prs_merged&theme=default&rank_icon=percentile&hide_border=true&cache_seconds=60" alt="Sangamesh's GitHub Stats"/>
 
 <!-- GitHub Streak Card -->
 <img src="https://streak-stats.demolab.com?user=Sangamesh-star&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
