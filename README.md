@@ -39,7 +39,7 @@ ___
 
 ✨ 𝗤𝗨𝗢𝗧𝗘 𝗜 𝗟𝗜𝗩𝗘 𝗕𝗬😊:-
 
-"No shortcuts — just sleepless nights and endless loops...
+"𝗡𝗢 𝗦𝗛𝗢𝗥𝗧𝗖𝗨𝗧𝗦 — just sleepless nights and endless loops...
 Built from scratch, fueled by code, driven by hustle❤️‍🔥."
 
 ---
