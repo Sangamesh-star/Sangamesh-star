@@ -82,7 +82,7 @@ ___
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Sangamesh-star&count_private=true&show_icons=true&show=reviews,prs_merged&theme=default&rank_icon=percentile&hide_border=true&cache_seconds=60" alt="Sangamesh's GitHub Stats" 
 
-(https://github-readme-stats.vercel.app/api?username=Sangamesh-star&cache_seconds=1800&count_private=true&show_icons=true&theme=radical)
+![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&cache_seconds=1800&count_private=true&show_icons=true&theme=radical)
 
 />
 
