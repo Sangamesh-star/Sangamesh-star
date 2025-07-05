@@ -1,0 +1,18 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="70" stroke="#eee" stroke-width="12" fill="none" />
+  <circle
+    cx="80"
+    cy="80"
+    r="70"
+    stroke="#F44336"
+    stroke-width="12"
+    fill="none"
+    stroke-dasharray="439.8"
+    stroke-dashoffset="432.8"
+    stroke-linecap="round"
+    transform="rotate(-90 80 80)"
+  />
+  <text x="50%" y="52%" text-anchor="middle" font-size="36" font-weight="bold" fill="#F44336">C</text>
+  <text x="50%" y="72%" text-anchor="middle" font-size="14" fill="#555">1.6%</text>
+  <text x="50%" y="88%" text-anchor="middle" font-size="12" fill="#888">GitHub Grade • 2025-07-05</text>
+</svg>
