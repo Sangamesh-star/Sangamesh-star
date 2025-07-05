@@ -90,7 +90,11 @@ ___
 
 </div>
 
+## 🏅 Auto-Updating GitHub Grade
 
+<p align="center">
+  <img src="grade-badge.svg" alt="GitHub Grade Badge" />
+</p>
 
 ---
 ___
