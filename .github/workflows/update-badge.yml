@@ -24,17 +24,15 @@ jobs:
       - name: 🛠️ Generate Grade Badge
         run: python scripts/generate_badge.py
 
-      - name: 🚀 Commit & Push Badge
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add grade-badge.svg
-
-          if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
-          else
-            git commit -m "🔁 Auto-update GitHub Grade Badge"
-            git push
+       - name: Commit & Push Badge
+  run: |
+    git config --global user.name 'github-actions'
+    git config --global user.email 'github-actions@github.com'
+    git add <your files>
+    git commit -m "Update badge" || echo "Nothing to commit"
+    git pull --rebase origin main
+    git push
+      
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
