@@ -92,7 +92,6 @@ ___
 
 <img src="grade-badge.svg" />
 
-
 ## 🏅 Auto-Updating GitHub Grade
 
 <p align="center">
