@@ -1,1 +1,32 @@
+name: Update GitHub Grade Badge
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Generate Badge
+        run: python scripts/generate_badge.py
+
+      - name: Commit & Push Badge
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add grade-badge.svg
+          git commit -m "🔁 Auto-update GitHub Grade Badge"
+          git push
