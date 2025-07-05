@@ -79,6 +79,8 @@ ___
 ![](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-star&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-star&cache_seconds=1800&count_private=true&show_icons=true&theme=radical)
+
 ---
 ___
 
