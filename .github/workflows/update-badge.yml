@@ -2,8 +2,8 @@ name: Update GitHub Grade Badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual run
 
 jobs:
   build:
@@ -26,8 +26,10 @@ jobs:
 
       - name: Commit & Push Badge
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add grade-badge.svg
-          git commit -m "🔁 Auto-update GitHub Grade Badge"
+          git commit -m "🔁 Auto-update GitHub Grade Badge" || echo "Nothing to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
