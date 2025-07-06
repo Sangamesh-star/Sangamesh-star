@@ -106,6 +106,7 @@ ___
 - [Artificial Intelligence(AI)🤖](https://my-certificates.com/certificates/686a46d1a9dabeb6d4c605b1)
 - [Machine Learning(ML)❄️](https://guvi.in/certificate/xyz123)
 - [Deep Learning (DL)👨‍💻](https://guvi.in/certificate/xyz123)
+- [Data Analytics📊](https://my-certificates.com/certificates/686a4f45a9dabeb6d4c605de)
 
 
 ---
