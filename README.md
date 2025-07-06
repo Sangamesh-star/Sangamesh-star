@@ -99,6 +99,12 @@ ___
 
 ---
 
+## 📜 Certifications
+
+- [AI Engineer - Coursera](https://coursera.org/certificate/abc123)
+- [Python Basics - GUVI](https://guvi.in/certificate/xyz123)
+
+---
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
 **MIT © 2025 [Sangamesh M Kuri]**  
 
