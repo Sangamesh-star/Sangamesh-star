@@ -101,7 +101,6 @@ ___
 
 ## 🎴 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
 
-[![My_Certifications](https://img.shields.io/badge/My__Certifications-✔️-blueviolet?style=for-the-badge&logo=awesomelists)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
 
 [![My_Certifications](https://img.shields.io/badge/My_Certifications-blue?style=for-the-badge&logo=github)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
 
