@@ -103,9 +103,9 @@ ___
 
 - [Brain Computer Interface(BCI)🧠](https://my-certificates.com/certificates/686a3e0ca9dabeb6d4c60581)
 - [Python Course🐍](https://guvi.in/certificate/xyz123)
-- [Artificial Intelligence🤖](https://guvi.in/certificate/xyz123)
-- [Machine Learning](https://guvi.in/certificate/xyz123)
-- [Python Course](https://guvi.in/certificate/xyz123)
+- [Artificial Intelligence(AI)🤖](https://guvi.in/certificate/xyz123)
+- [Machine Learning(ML)❄️](https://guvi.in/certificate/xyz123)
+- [Deep Learning (DL)👨‍💻](https://guvi.in/certificate/xyz123)
 
 
 ---
