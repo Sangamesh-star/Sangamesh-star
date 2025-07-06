@@ -103,6 +103,8 @@ ___
 
 [![My_Certifications](https://img.shields.io/badge/My__Certifications-✔️-blueviolet?style=for-the-badge&logo=awesomelists)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
 
+[![My_Certifications](https://img.shields.io/badge/My_Certifications-blue?style=for-the-badge&logo=github)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
+
 ---
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
 **MIT © 2025 [Sangamesh M Kuri]**  
