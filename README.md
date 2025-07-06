@@ -101,13 +101,7 @@ ___
 
 ## 🎴 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
 
-- [Brain Computer Interface(BCI)🧠](https://my-certificates.com/certificates/686a3e0ca9dabeb6d4c60581)
-- [Python Course🐍](https://my-certificates.com/certificates/686a42ffa9dabeb6d4c6059d)
-- [Artificial Intelligence(AI)🤖](https://my-certificates.com/certificates/686a46d1a9dabeb6d4c605b1)
-- [Machine Learning(ML)❄️](https://guvi.in/certificate/xyz123)
-- [Deep Learning (DL)👨‍💻](https://guvi.in/certificate/xyz123)
-- [Data Analytics📊](https://my-certificates.com/certificates/686a4f45a9dabeb6d4c605de)
-
+[![My_Certifications](https://img.shields.io/badge/My_Certifications-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
 
 ---
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
