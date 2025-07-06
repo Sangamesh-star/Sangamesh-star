@@ -99,7 +99,7 @@ ___
 
 ---
 
-## 📜 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
+## 🎴 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
 
 - [Brain Computer Interface(BCI)🧠](https://my-certificates.com/certificates/686a3e0ca9dabeb6d4c60581)
 - [Python Course🐍](https://guvi.in/certificate/xyz123)
