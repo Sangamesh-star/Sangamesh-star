@@ -101,8 +101,12 @@ ___
 
 ## 📜 Certifications
 
-- [Brain Computer Interface(BCI) ](https://my-certificates.com/certificates/686a3e0ca9dabeb6d4c60581)
-- [Python Basics - GUVI](https://guvi.in/certificate/xyz123)
+- [Brain Computer Interface(BCI)🧠](https://my-certificates.com/certificates/686a3e0ca9dabeb6d4c60581)
+- [Python Course🐍](https://guvi.in/certificate/xyz123)
+- [Artificial Intelligence🤖](https://guvi.in/certificate/xyz123)
+- [Machine Learning](https://guvi.in/certificate/xyz123)
+- [Python Course](https://guvi.in/certificate/xyz123)
+
 
 ---
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
