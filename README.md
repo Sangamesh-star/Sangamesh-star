@@ -101,7 +101,7 @@ ___
 
 ## 📜 Certifications
 
-- [AI Engineer - Coursera](https://coursera.org/certificate/abc123)
+- [Brain Computer Interface(BCI) ](https://my-certificates.com/certificates/686a3e0ca9dabeb6d4c60581)
 - [Python Basics - GUVI](https://guvi.in/certificate/xyz123)
 
 ---
