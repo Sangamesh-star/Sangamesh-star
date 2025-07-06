@@ -101,7 +101,7 @@ ___
 
 ## 🎴 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
 
-[![My_Certifications](https://img.shields.io/badge/My_Certifications -blue?style=for-the-badge&logo=github)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
+[![My_Certifications](https://img.shields.io/badge/📄 My_Certifications-blue?style=for-the-badge)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
 
 ---
 ## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
