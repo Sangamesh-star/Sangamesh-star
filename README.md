@@ -72,6 +72,9 @@ ___
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
+
+![Selenium](https://img.shields.io/badge/Selenium-Automation%20Tool-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 ---
 ___
 
