@@ -78,17 +78,15 @@ ___
  
  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks%20Powered-red?style=for-the-badge&logo=pytorch&logoColor=white)
- 
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20&%20Decisions-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
- 
- <!-- Embedded Systems -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Selenium](https://img.shields.io/badge/Selenium-Automation%20Tool-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-![Appium](https://img.shields.io/badge/Appium-Automation_Tool-9cf?logo=appium&logoColor=white&color=purple)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white)
 
 ![MongoDB in Python | Java | C# | Node.js](https://img.shields.io/badge/MongoDB%20in-Python%20%7C%20Java%20%7C%20C%23%20%7C%20Node.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
