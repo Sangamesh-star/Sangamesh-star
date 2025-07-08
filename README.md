@@ -78,8 +78,7 @@ ___
  
  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Data%20Analytics29465B?style=for-the-badge&logo=data&logoColor=white"/>
-
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20&%20Decisions-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
  
  <!-- Embedded Systems -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
