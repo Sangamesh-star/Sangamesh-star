@@ -81,11 +81,6 @@ ___
   <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ![Embedded Systems (Arduino)](https://img.shields.io/badge/Embedded%20Systems-arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
