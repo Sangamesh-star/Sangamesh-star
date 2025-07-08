@@ -90,7 +90,7 @@ ___
   <img src="https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white" />
 </p>
 
-![MongoDB  Python | Java | C# | Node.js](https://img.shields.io/badge/MongoDB%20in-Python%20%7C%20Java%20%7C%20C%23%20%7C%20Node.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Python | Java | C# | Node.js](https://img.shields.io/badge/MongoDB%20in-Python%20%7C%20Java%20%7C%20C%23%20%7C%20Node.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 ___
 
