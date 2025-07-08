@@ -87,6 +87,8 @@ ___
 
 ![Selenium](https://img.shields.io/badge/Selenium-Automation%20Tool-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+![Appium](https://img.shields.io/badge/Appium-Automation_Tool-9cf?logo=appium&logoColor=white&color=purple)
+
 [![Appium](https://img.shields.io/badge/Appium-Automation_Tool-9cf?logo=appium&logoColor=white&color=purple)](https://appium.io/)
 ---
 ___
