@@ -68,10 +68,10 @@ ___
 </p>
  
  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- 
- <img src="https://img.shields.io/badge/GenAI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
- 
+ <p float="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-06B6D4?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
  <img src="https://img.shields.io/badge/BCI(Brain_Computer_Interface)-4B0082?style=for-the-badge"/>
  
  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white)
