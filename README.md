@@ -89,9 +89,7 @@ ___
 
 ![Appium](https://img.shields.io/badge/Appium-Automation_Tool-9cf?logo=appium&logoColor=white&color=purple)
 
-<img src="https://img.shields.io/badge/Appium-Automation_Tool-9cf?logo=appium&logoColor=white&color=purple" width="150"/>
 
-[![Appium](https://img.shields.io/badge/Appium-Automation_Tool-9cf?logo=appium&logoColor=white&color=purple)](https://appium.io/)
 ---
 ___
 
