@@ -78,7 +78,7 @@ ___
  
  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Data%20Science-29465B?style=for-the-badge&logo=data&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Data%20Analytics29465B?style=for-the-badge&logo=data&logoColor=white"/>
 
  
  <!-- Embedded Systems -->
