@@ -85,6 +85,10 @@ ___
 
 ![Embedded Systems (Arduino)](https://img.shields.io/badge/Embedded%20Systems-arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+<p float="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white" />
+</p>
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
