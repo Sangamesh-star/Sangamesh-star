@@ -74,9 +74,9 @@ ___
  
  <img src="https://img.shields.io/badge/BCI(Brain_Computer_Interface)-4B0082?style=for-the-badge"/>
  
- <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
- 
- <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+ ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)
 
