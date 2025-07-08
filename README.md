@@ -83,8 +83,7 @@ ___
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Embedded Systems (Arduino)](https://img.shields.io/badge/Embedded%20Systems-arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
