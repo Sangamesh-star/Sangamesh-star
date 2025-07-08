@@ -66,6 +66,10 @@ ___
 <!-- DSA -->
   <img src="https://img.shields.io/badge/DSA-C|%20Java|%20JS-blue?style=for-the-badge"/>
 
+<!-- DSA -->
+<p>
+  <img src="https://img.shields.io/badge/DSA-C%7C%20Java%7C%20JS-blue?style=for-the-badge"/>
+</p>
  
  <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
