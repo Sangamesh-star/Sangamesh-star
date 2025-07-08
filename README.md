@@ -77,6 +77,8 @@ ___
  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks%20Powered-red?style=for-the-badge&logo=pytorch&logoColor=white)
  
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20&%20Decisions-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
  
