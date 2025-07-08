@@ -62,10 +62,6 @@ ___
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  
-<!-- DSA -->
-  <img src="https://img.shields.io/badge/DSA-C|%20Java|%20JS-blue?style=for-the-badge"/>
-
 <!-- DSA -->
 <p>
   <img src="https://img.shields.io/badge/DSA-C%7C%20Java%7C%20JS-blue?style=for-the-badge"/>
