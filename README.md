@@ -64,7 +64,7 @@ ___
 
   
 <!-- DSA -->
-  <img src="https://img.shields.io/badge/DSA-C,%20Java,%20JS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-C|%20Java|%20JS-blue?style=for-the-badge"/>
 
  
  <!-- Frameworks & Tools -->
