@@ -78,15 +78,6 @@ ___
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-</p>
-
- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white)
-
-<p float="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
