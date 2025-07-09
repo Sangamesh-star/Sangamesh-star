@@ -56,7 +56,7 @@ ___
 ![GenAI](https://img.shields.io/badge/GenAI-06B6D4?style=for-the-badge&logo=openai&logoColor=white) ![BCI](https://img.shields.io/badge/BCI(Brain_Computer_Interface)-4B0082?style=for-the-badge) ![AI](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white) ![DL](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-Python%20%7C%20Java%20%7C%20C%23%20%7C%20Node.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-![STL in C++](https://img.shields.io/badge/STL%20in%20C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+<img src="https://img.shields.io/badge/STL%20in-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 ---
 ___
 
