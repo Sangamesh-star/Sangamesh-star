@@ -57,6 +57,8 @@ ___
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 <img src="https://img.shields.io/badge/STL%20in-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/STL-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 ---
 ___
 
