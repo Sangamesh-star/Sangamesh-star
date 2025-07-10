@@ -11,6 +11,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 ---
 ___
+
 ★ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 :-
 
 🎓 I Will do Computer Science & Engineering(CSE)<br> 
@@ -23,6 +24,7 @@ ___
 
 ---
 ___
+
 ★ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗜𝗡 𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦 :-
 
 🧠  Matured Mind Blog + App  – A smart blog reader with TTS, offline mode & recommendations  <br> 
