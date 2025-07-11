@@ -86,7 +86,7 @@ ___
 ___
 
 
-## 🎴 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
+## 🎴 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:-
 
 
 [![My_Certifications](https://img.shields.io/badge/My_Certifications-blue?style=for-the-badge&logo=github)](https://github.com/Sangamesh-star/My_Certifications/tree/main)
@@ -95,7 +95,7 @@ ___
 
 ---
 
-## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :  
+## 📜 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 :-
 **MIT © 2025 [Sangamesh M Kuri]**  
 
 This copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
