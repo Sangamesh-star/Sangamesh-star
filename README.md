@@ -70,7 +70,6 @@ ___
 <!-- GitHub Streak Card -->
 <img src="https://streak-stats.demolab.com?user=Sangamesh-star&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-star&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=60" alt="Top Languages" />
 
