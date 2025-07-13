@@ -11,6 +11,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 
 ---
+❤️
 ___
 
 ★ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 :-
