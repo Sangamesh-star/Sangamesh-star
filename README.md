@@ -7,7 +7,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 
 ![Boy Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-
 ---
 ___
 
