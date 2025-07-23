@@ -71,6 +71,10 @@ ___
 
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sangamesh-star&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=4c8eda&fire=ff6e48&currStreakLabel=4c8eda" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamesh-star&theme=github-light&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
