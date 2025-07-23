@@ -3,7 +3,7 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 <span style="color:#007acc">𝐒𝐀𝐍𝐆𝐀𝐌𝐄𝐒𝐇 𝐌𝐊</span></h1> <p align="center"> 🚀 Aspiring AI Engineer | 🎓 CSE Undergrad | 💻 Tech Explorer| 👨‍💻 Future Developer<br></p> <p align="center"> <img
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learning+Python+%7C+AI+%7C+App+Dev;Never+stop+learning+%F0%9F%92%AA" alt="Typing SVG" /> </p> 
 
-<h1 align="center">𝐇𝐮𝐬𝐭𝐥𝐢𝐧𝐠😊...</span></h1>
+<h1 align="center">Matured Mind...</span></h1>
 
 ![Boy Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
