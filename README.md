@@ -82,6 +82,12 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=Sangamesh-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamesh-star&theme=github-dark&hide_border=true&area=true&point=transparent&line=63f7d3&color=91ecf0" alt="GitHub Activity Graph" />
+</p>
+
+
 ___
 
 
