@@ -1,11 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sangamesh-star&color=red&style=flat-square)
 
-<h3 align="center">💐 A Boy Giving a Rose to a Girl 💐</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBoNHoxbzEyd3Y3NG44YXZsM3FuZzF5NjdhbTVuZ2U4MDFxeW42MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NyDo55HhDgMLi/giphy.gif" width="300">
-</p>
-
 <p align="center">
   <b>🌹 Love in the air 💘</b>
 </p>
