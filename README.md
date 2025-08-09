@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sangamesh-star&color=red&style=flat-square)
 
 <p align="center">
-  <b>😊</b>
+  <b>🤗</b>
 </p>
 
 
